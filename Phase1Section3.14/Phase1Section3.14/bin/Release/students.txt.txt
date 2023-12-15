@@ -1,0 +1,14 @@
+Student ID: 1
+Name: Alex
+Age: 20
+
+
+Student ID: 2
+Name: Antony
+Age: 19
+
+
+Student ID: 3
+Name: Stephen
+Age: 21
+

@@ -1,0 +1,7 @@
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\bin\Debug\Phase1Section4.33.exe.config
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\bin\Debug\Phase1Section4.33.exe
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\bin\Debug\Phase1Section4.33.pdb
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\obj\Debug\Phase1Section4.33.csproj.AssemblyReference.cache
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\obj\Debug\Phase1Section4.33.csproj.CoreCompileInputs.cache
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\obj\Debug\Phase1Section4.33.exe
+C:\Users\mural\source\repos\Phase1Section4.33\Phase1Section4.33\obj\Debug\Phase1Section4.33.pdb
