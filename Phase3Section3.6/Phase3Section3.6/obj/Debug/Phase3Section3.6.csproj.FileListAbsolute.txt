@@ -1,0 +1,7 @@
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\bin\Debug\Phase3Section3.6.exe.config
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\bin\Debug\Phase3Section3.6.exe
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\bin\Debug\Phase3Section3.6.pdb
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\obj\Debug\Phase3Section3.6.csproj.AssemblyReference.cache
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\obj\Debug\Phase3Section3.6.csproj.CoreCompileInputs.cache
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\obj\Debug\Phase3Section3.6.exe
+C:\Users\mural\source\repos\Phase3Section3.6\Phase3Section3.6\obj\Debug\Phase3Section3.6.pdb
