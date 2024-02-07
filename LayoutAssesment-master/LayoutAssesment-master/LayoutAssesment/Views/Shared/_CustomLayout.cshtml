@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/Styling.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header>
+        <div>
+            <nav>
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Assessment", "index", "Assessment", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("RedirectDemo", "RedirectDemo", "Assessment", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("DisplayMessage", "DisplayMessage", "Assessment", new { area = "" }, new { @class = "nav-link" })</li>
+
+                </ul>
+            </nav>
+
+        </div>
+    </header>
+
+    <div id="mai-content">
+        @RenderBody()
+    </div>
+    <footer>
+        <p>&copy; @DateTime.Now.Year This is the footer Section</p>
+    </footer>
+    
+</body>
+</html>
